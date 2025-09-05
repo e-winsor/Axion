@@ -1,0 +1,29 @@
+# Build directories
+build/
+build-*/
+compile_commands.json
+
+# Executables
+PhysicsEngine
+
+# Temporary files
+*.o
+*.a
+*.so
+
+# Backup files
+*~
+*.bak
+*.backup
+
+# Logs
+.log
+
+# Precompiled headers
+*.gch
+
+# clangd language server index
+.cache/
+
+# test file
+src/main.cpp
