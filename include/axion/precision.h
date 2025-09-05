@@ -2,7 +2,7 @@
 
 #include <cmath>
 
-namespace Axion
+namespace axion
 {
   using real = float;
 

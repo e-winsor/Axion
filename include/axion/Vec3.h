@@ -2,7 +2,7 @@
 
 #include "axion/precision.h"
 
-namespace Axion
+namespace axion
 {
   class Vec3
   {
