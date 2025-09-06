@@ -10,6 +10,7 @@ find_package(SDL3 REQUIRED)
 
 add_executable(Axion
   ./src/main.cpp
+  ./src/vec3.cpp
 )
 
 target_include_directories(Axion

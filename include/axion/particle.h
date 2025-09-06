@@ -1,4 +1,4 @@
-#include "Vec3.h"
+#include "vec3.h"
 #include "SDL3/SDL.h"
 
 namespace axion
